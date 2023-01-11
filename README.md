@@ -42,4 +42,4 @@
 15. restart the computer again <br />
 
 DONE! you've set up the remote controller successfully, your bot will send you the 'Bot up and running' message at every computer boot <br />
-you can now use the commands to remote control the computer <br />
+you can now use the commands to remote control the computer
