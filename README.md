@@ -12,7 +12,7 @@
       `pip install psutil` <br />
    now you can close the console <br />
 **7.** restart the computer again <br />
-**8.** open again the console in administrator mode and execute the following eight commands: <br />
+**8.** open again the console in administrator mode and execute the following seven commands: <br />
    <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
       `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
       `python -m pip install -r requirements.txt` <br />
@@ -20,8 +20,7 @@
       `attrib +s +h "C:\Windows\System32\bot"` <br />
       `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\batches" -Destination "C:\Windows\System32" -recurse -Force` <br />
       `attrib +s +h "C:\Windows\System32\batches"` <br />
-      `cd batches` <br />
-      `.\hide.bat` <br />
+      `batches\hide.bat` <br />
    now you can close the console <br />
 **9.** restart the computer again <br />
 **10.** if you don't have Telegram already installed on your phone, install it and create your account <br />
