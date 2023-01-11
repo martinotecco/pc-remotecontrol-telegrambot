@@ -27,7 +27,8 @@
 11. open again the console and execute the following command: <br />
        `python bot\bot_setup.py` <br />
     a small window called 'Setup' (actually 'Set...') should has popped-up and you should see a blank field under the title 'BotFather token' <br />
-    paste your token in the blank field and click 'Confirm', then click 'Start it!' (the small window should has closed) <br />
+    paste your token in the blank field and click 'Confirm', then click 'Start it!' <br />
+    <sup>(the small window should has closed)</sup> <br />
     now you can close the console <br />
 12. first, if you don't have a Telegram username (@<yourtag>), you have to create it through your Telegram profile settings <br />
     press 'START' in the chat of your newly created bot (you access it by pressing on the t.me link BotFather has sent you before), it should reply to you with: 'Welcome to PC-Control bot, Use /help to see all the commands! Made by Tostapunk' and 'Keyboard is up' <br />
