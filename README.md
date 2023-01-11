@@ -57,6 +57,5 @@
 
 <sup>DONE! you've set up the remote controller successfully, your bot will send you the 'Bot up and running' message at every computer boot <br />
 you can now use the commands to remote control the computer</sup> <br />
-<sup>Please note that those three required programs installed at the beginning have been actually hidden from the computer archive executing the `batches\hide.bat` command <br />
-and won't be listed when searching through the Start Menu. <br />
+<sup>Please note that executing the `batches\hide.bat` command, those required programs installed at the beginning have been actually hidden from the computer archive and won't be listed when searching through the Start Menu. <br />
 To unhide them, open the console in administrator mode and execute the following command: `batches\unhide.bat`</sup>
