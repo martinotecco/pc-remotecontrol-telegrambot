@@ -7,15 +7,15 @@
 6. search for 'PowerShell' in the search bar, right click on it and select 'Run as administrator', then click 'Yes' <br />
    when the console is open and ready, execute the following two commands <br />
    (remember to wait for it to be ready after typing each command): <br />
-      `pip install --upgrade setuptools` <br />
-      `pip install psutil` <br />
+      <sup>`pip install --upgrade setuptools`</sup> <br />
+      <sup>`pip install psutil`</sup> <br />
    now you can close the console <br />
 7. restart the computer again <br />
 8. open again the console and execute the following four commands, as described in the first and second lines of step 5: <br />
-      `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
-      `python -m pip install -r requirements.txt` <br />
-      `Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force` <br />
-      `attrib +h "C:\Windows\System32\bot" /s /d` <br />
+      <sup>`cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot`</sup> <br />
+      <sup>`python -m pip install -r requirements.txt`</sup> <br />
+      <sup>`Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force`</sup> <br />
+      <sup>`attrib +h "C:\Windows\System32\bot" /s /d`</sup> <br />
    now you can close the console <br />
 9. restart the computer again <br />
 10. if you don't have Telegram already installed on your phone, install it and create your account <br />
