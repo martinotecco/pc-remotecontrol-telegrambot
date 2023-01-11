@@ -40,7 +40,7 @@
     <sup>(press the 'up-arrow' key on your keyboard and the command should appear in the console)</sup> <br />
     in the small window you have to click 'Change user permissions', then add your Telegram username without the '@' in the new blank field that's popped-up <br />
     close the 'Username' window and click 'Start it' again <br />
-    <sup>(your bot should has sent you a message showing: 'Bot up and running' and this is the message that informs you the remote controller is ready <br />
+    <sup>(your bot should has sent you a message showing: 'Bot up and running' and this is the message that informs you the remote controller is ready) <br />
     now you can close the console</sup> <br />
 **14.** open again the console and execute the previous command <br />
     in the small window you have to click 'Options', 'Console', 'Hide', then click 'Restart' and wait for it to re-opens <br />
