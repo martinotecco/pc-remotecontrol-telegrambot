@@ -80,4 +80,4 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/link` | open a webpage | `https://<domain>` <sub>e.g.: /link ht<span>tps://</span>google.com (don't use *w<span>ww.*)</sub> |
 | `/memo` | show a memo on your computer | `<text>` <sub>e.g.: /memo hello, how are you?</sub> |
 | `/screen` | take a screenshot and send it in chat |  |
-| `/keyboard` or `/kb` | show-up the interactive keyboard in chat |  |
+| `/keyboard` or `/kb` | show-up the command keyboard in chat |  |
