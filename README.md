@@ -67,13 +67,13 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
       `batches\unhide.bat`</sup> <br />
 ## Available commands
 | Command | Description | Parameters |
-| --- | ------ | --- |
+| --- | --------- | --- |
 | `/shutdown` | shutdown the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/reboot` | reboot the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/hibernate` | hibernate the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/logout` | logout from the current account | `_t + <minutes>` e.g.: /shutdown_t + 2 |
-| `/lock` | lock the computer | --- |
-| `/cancel` | abort the shutdown or reboot process | --- |
-| `/check` | check the computer status | --- |
+| `/lock` | lock the computer |  |
+| `/cancel` | abort the shutdown or reboot process |  |
+| `/check` | check the computer status |  |
 | `/launch` | launch a program | `<exename>` e.g.: /launch notepad |
 | `/link` | open a webpage | `https://google.com` e.g.: /link https://google.com (don't use *www.*) |
