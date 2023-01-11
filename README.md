@@ -23,7 +23,7 @@
     go to t.me/BotFather and in the chat press 'START', it'll reply with a list of commands; press on '/newbot' command and follow its replies <br />
     make sure to have your bot successfully created (BotFather should has sent you a message with a t.me link to your bot and a token) <br />
     press on the token to copy it automatically <br />
-    <sup>(if the computer doesn't sync the phone clipboard you won't have it copied on the computer clipboard, so, from your phone, send an email to the email account registered on the computer including the token in the text: you'll open it on the computer and will copy the token, then remember to delete that email, even from the trash, and delete also the browser research history!)</sup> <br />
+    <sup>(if the computer doesn't sync the phone clipboard you won't have it copied on the computer clipboard, so, from your phone, send an email to the email account registered on the computer including the token)</sup> <br />
 11. open again the console and execute the following command: <br />
        `python bot\bot_setup.py` <br />
     a small window called 'Setup' (actually 'Set...') should has popped-up and you should see a blank field under the title 'BotFather token': this small window it's the setup of the remote controller <br />
