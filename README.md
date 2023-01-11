@@ -68,12 +68,12 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 ## Available commands
 | Command | Description | Parameters |
 | --- | --------- | --- |
-| `/shutdown` | shutdown the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
-| `/reboot` | reboot the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
-| `/hibernate` | hibernate the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
-| `/logout` | logout from the current account | `_t + <minutes>` e.g.: /shutdown_t + 2 |
+| `/shutdown` | shutdown the computer | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
+| `/reboot` | reboot the computer | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
+| `/hibernate` | hibernate the computer | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
+| `/logout` | logout from the current account | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
 | `/lock` | lock the computer |  |
 | `/cancel` | abort the shutdown or reboot |  |
 | `/check` | check the computer status |  |
-| `/launch` | launch a program | `<exename>` e.g.: /launch notepad |
+| `/launch` | launch a program | `<exename>` <sub>e.g.: /launch notepad</sub> |
 | `/link` | open a webpage | `https://google.com` <sub>e.g.: /link ht<span>tps://</span>google.com (don't use *w<span>ww.*)</sub> |
