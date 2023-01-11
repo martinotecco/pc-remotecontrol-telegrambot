@@ -49,7 +49,7 @@
     <sup>(by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again)</sup> <br />
     close the small window <br />
     now you can close the console <br />
-**15.** restart the computer again <br /></sup>
+**15.** restart the computer again</sup> <br />
 
 <sup>DONE! you've set up the remote controller successfully, your bot will send you the 'Bot up and running' message at every computer boot <br />
 you can now use the commands to remote control the computer</sup>
