@@ -78,6 +78,6 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/launch` | launch a program | `<program>` <sub>e.g.: /launch notepad</sub> |
 | `/task` | check if a process is running, <br /> if yes ask the user if wants to kill it | `<exename>` <sub>e.g.: /task chrome</sub> |
 | `/link` | open a webpage | `https://<domain>` <sub>e.g.: /link ht<span>tps://</span>google.com (don't use *w<span>ww.*)</sub> |
-| `/memo` | show a memo on the computer | `<text>` <sub>e.g.: /memo hello, how are you?</sub> |
+| `/memo` | show a memo | `<text>` <sub>e.g.: /memo hello, how are you?</sub> |
 | `/screen` | take a screen and send it in chat |  |
 | `/keyboard`, `/kb` | show the commands in chat |  |
