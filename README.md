@@ -73,7 +73,7 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/hibernate` | hibernate the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/logout` | logout from the current account | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/lock` | lock the computer | --- |
-| `/cancel` | abort the shutdown or reboot process | --- |
+| `/cancel` | abort the shutdown or reboot | --- |
 | `/check` | check the computer status | --- |
 | `/launch` | launch a program | `<exename>` e.g.: /launch notepad |
 | `/link` | open a webpage | `https://google.com` e.g.: /link https://google.com (don't use *www.*) |
