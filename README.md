@@ -12,10 +12,11 @@
       `pip install psutil` <br />
    now you can close the console <br />
 **7.** restart the computer again <br />
-**8.** open again the console in administrator mode and execute the following seven commands: <br />
+**8.** open again the console in administrator mode and execute the following eight commands: <br />
    <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
       `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
       `python -m pip install -r requirements.txt` <br />
+      `cd "C:\Windows\System32"` <br />
       `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot" -Destination "C:\Windows\System32" -recurse -Force` <br />
       `attrib +s +h "C:\Windows\System32\bot"` <br />
       `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\batches" -Destination "C:\Windows\System32" -recurse -Force` <br />
