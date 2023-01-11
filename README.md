@@ -12,6 +12,7 @@
    now you can close the console <br />
 7. restart the computer again <br />
 8. open again the console and execute the following four commands: <br />
+   (remember to wait for it to be ready after typing each command) <br />
       <sup>`cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot`</sup> <br />
       <sup>`python -m pip install -r requirements.txt`</sup> <br />
       <sup>`Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force`</sup> <br />
