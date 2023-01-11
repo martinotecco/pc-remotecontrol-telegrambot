@@ -56,5 +56,5 @@
 **15.** restart the computer again</sup> <br />
 
 <sup>DONE! you've set up the remote controller successfully, your bot will send you the 'Bot up and running' message at every computer boot <br />
-you can now use the commands to remote control the computer</sup>
+you can now use the commands to remote control the computer</sup> <br />
 <sup>please note that those three required programs installed at the beginning are actually hidden from the computer archive and won't be listed when searching through the Start Menu</sup>
