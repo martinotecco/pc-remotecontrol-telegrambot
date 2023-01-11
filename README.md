@@ -71,7 +71,7 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/shutdown` | shutdown the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/reboot` | reboot the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/hibernate` | hibernate the computer | `_t + <minutes>` e.g.: /shutdown_t + 2 |
-| `/logout` | logout from the current account | `_t + <minutes>` e.g.: /shutdown_t + 2 |
+| `/logout` | logout from the account | `_t + <minutes>` e.g.: /shutdown_t + 2 |
 | `/lock` | lock the computer | --- |
 | `/cancel` | abort the shutdown or reboot | --- |
 | `/check` | check the computer status | --- |
