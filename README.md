@@ -52,10 +52,15 @@
     click *Options* again, *Startup*, *Enable* <br />
     <sup>(by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again)</sup> <br />
     close the small window <br />
+    before closing the console execute the following command: <br />
+    `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
+    <sup>(by executing this command the "pc-remotecontrol-telegrambot" folder has been deleted)</sup>
     now you can close the console <br />
+    delete the email you've sent to the email account registered on the computer, even from the trash, if you've copied the token by doing that <br />
+    delete the browser research history <br />
 **15.** restart the computer again</sup> <br />
 
 <sup>DONE! you've set up the remote controller successfully, your bot will send you the 'Bot up and running' message at every computer boot <br />
 you can now use the commands to remote control the computer</sup> <br />
-<sup>Please note that executing the `batches\hide.bat` command, those required programs installed at the beginning have been actually hidden and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
+<sup>Please note that by executing the `batches\hide.bat` command, those required programs installed at the beginning have been actually hidden and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
       `batches\unhide.bat`</sup>
