@@ -16,9 +16,9 @@
    <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
       `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
       `python -m pip install -r requirements.txt` <br />
-      `Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force` <br />
+      `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot" -Destination "C:\Windows\System32" -recurse -Force` <br />
       `attrib +s +h "C:\Windows\System32\bot"` <br />
-      `Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\batches -Destination "C:\Windows\System32" -recurse -Force` <br />
+      `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\batches" -Destination "C:\Windows\System32" -recurse -Force` <br />
       `attrib +s +h "C:\Windows\System32\batches"` <br />
       `cd batches` <br />
       `.\hide.bat` <br />
