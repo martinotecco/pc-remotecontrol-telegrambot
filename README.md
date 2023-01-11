@@ -76,4 +76,4 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/cancel` | abort the shutdown or reboot |  |
 | `/check` | check the computer status |  |
 | `/launch` | launch a program | `<exename>` e.g.: /launch notepad |
-| `/link` | open a webpage | `https://google.com` e.g.: /link ht<span>tps://</span>google.com (don't use *www.*) |
+| `/link` | open a webpage | `https://google.com` <sup>e.g.: /link ht<span>tps://</span>google.com (don't use *w<span>ww.*)</sup> |
