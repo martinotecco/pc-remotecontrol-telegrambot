@@ -42,9 +42,9 @@
     now you can close the console <br />
 14. open again the console and execute the previous command <br />
     in the small window you have to click 'Options', 'Console', 'Hide', then click 'Restart' and wait for it to re-opens <br />
-    (by doing this the console will be invisible when executing commands from the Telegram bot) <br />
+    <sup>(by doing this the console will be invisible when executing commands from the Telegram bot)</sup> <br />
     click 'Options' again, 'Startup', 'Enable' <br />
-    (by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again) <br />
+    <sup>(by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again)</sup> <br />
     close the small window <br />
     now you can close the console <br />
 15. restart the computer again <br /></sup>
