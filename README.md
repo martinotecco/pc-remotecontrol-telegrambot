@@ -11,7 +11,7 @@
       <sup>`pip install psutil`</sup> <br />
    now you can close the console <br />
 7. restart the computer again <br />
-8. open again the console and execute the following four commands, as described in the first and second lines of step 5: <br />
+8. open again the console and execute the following four commands: <br />
       <sup>`cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot`</sup> <br />
       <sup>`python -m pip install -r requirements.txt`</sup> <br />
       <sup>`Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force`</sup> <br />
