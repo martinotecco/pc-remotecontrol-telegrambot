@@ -18,6 +18,8 @@
       `python -m pip install -r requirements.txt` <br />
       `Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force` <br />
       `attrib +s +h "C:\Windows\System32\bot"` <br />
+      `Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\batches -Destination "C:\Windows\System32" -recurse -Force` <br />
+      `attrib +s +h "C:\Windows\System32\batches"` <br />
    now you can close the console <br />
 **9.** restart the computer again <br />
 **10.** if you don't have Telegram already installed on your phone, install it and create your account <br />
