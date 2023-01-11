@@ -26,7 +26,7 @@
     <sup>(if the computer doesn't sync the phone clipboard you won't have it copied on the computer clipboard, so, from your phone, send an email to the email account registered on the computer including the token)</sup> <br />
 11. open again the console and execute the following command: <br />
        `python bot\bot_setup.py` <br />
-    a small window called 'Setup' (actually 'Set...') should has popped-up and you should see a blank field under the title 'BotFather token': this small window it's the setup of the remote controller <br />
+    a small window called 'Setup' (actually 'Set...') should has popped-up and you should see a blank field under the title 'BotFather token' <br />
     paste your token in the blank field and click 'Confirm', then click 'Start it!' (the small window should has closed) <br />
     now you can close the console <br />
 12. first, if you don't have a Telegram username (@<yourtag>), you have to create it through your Telegram profile settings <br />
