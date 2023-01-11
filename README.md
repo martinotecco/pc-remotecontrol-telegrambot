@@ -1,6 +1,5 @@
 ## How to install ##
-<sup>
-1. download the project from the [*Releases* section](https://www.github.com/martinotecco/pc-remotecontrol-telegrambot/releases) and unzip it <br />
+1. <sup>download the project from the [*Releases* section](https://www.github.com/martinotecco/pc-remotecontrol-telegrambot/releases) and unzip it <br />
 2. open "python-3.11.1-amd64.exe" to install Python 3.11.1, make sure to select the option to add it to the PATH <br />
 3. open "VC_redist.x64.exe" to install Microsoft Visual C++ 14 <br />
 4. open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose 'Desktop development with C++' after <br />
@@ -48,8 +47,7 @@
     <sup>(by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again)</sup> <br />
     close the small window <br />
     now you can close the console <br />
-15. restart the computer again <br />
-</sup>
+15. restart the computer again <br /></sup>
 
 <sup>DONE! you've set up the remote controller successfully, your bot will send you the 'Bot up and running' message at every computer boot <br />
 you can now use the commands to remote control the computer</sup>
