@@ -54,7 +54,7 @@
     close the small window <br />
     before closing the console execute the following command: <br />
     `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
-    <sup>(by executing this command the "pc-remotecontrol-telegrambot" folder has been deleted)</sup>
+    <sup>(by executing this command the "pc-remotecontrol-telegrambot" folder has been deleted)</sup> <br />
     now you can close the console <br />
     delete the email you've sent to the email account registered on the computer, even from the trash, if you've copied the token by doing that <br />
     delete the browser research history <br />
