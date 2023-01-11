@@ -64,4 +64,9 @@
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
 Please note that by executing the `batches\hide.bat` command, those required programs installed at the beginning have been actually hidden <br />
 and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
-      `batches\unhide.bat`</sup>
+      `batches\unhide.bat`</sup> <br />
+## Available commands
+<sup>| Command | Description |
+| --- | --- |
+| `git status` | List all new or modified files |
+| `git diff` | Show file differences that haven't been staged |</sup>
