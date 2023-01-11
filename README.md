@@ -32,7 +32,7 @@
     now you can close the console <br />
 12. first, if you don't have a Telegram username (@<yourtag>), you have to create it through your Telegram profile settings <br />
     press 'START' in the chat of your newly created bot <br />
-    <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing 'START', it should reply to you with: 'Welcome to PC-Control bot, Use /help to see all the commands! Made by Tostapunk' and 'Keyboard is up'</sup> <br />
+    <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing 'START', it should reply to you with: 'Welcome to PC-Control bot...' and 'Keyboard is up'</sup> <br />
     if a list of commands pops-up you have to ignor it, there's another step you have to do before you can use those commands <br />
 13. open again the console and execute the previous command <br />
     (press the 'up-arrow' key on your keyboard and the command should appear in the console) <br />
