@@ -5,11 +5,11 @@
 4. open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose 'Desktop development with C++' after <br />
 5. restart the computer <br />
 6. search for 'PowerShell' in the search bar, right click on it and select 'Run as administrator', then click 'Yes' <br />
-   - when the console is open and ready, execute the following two commands: <br />
-   - <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
-   -    `pip install --upgrade setuptools` <br />
-   -    `pip install psutil` <br />
-   - now you can close the console <br />
+   when the console is open and ready, execute the following two commands: <br />
+   <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
+      `pip install --upgrade setuptools` <br />
+      `pip install psutil` <br />
+   now you can close the console <br />
 7. restart the computer again <br />
 8. open again the console and execute the following four commands: <br />
    <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
