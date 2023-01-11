@@ -3,7 +3,7 @@
 <sup>(when unzipped, make sure to have the "pc-remotecontrol-telegrambot" folder containing directly the files, not another folder inside with the same name containing the files)</sup> <br />
 **2.** open "python-3.11.1-amd64.exe" to install Python 3.11.1, make sure to select the option to add it to the PATH <br />
 **3.** open "VC_redist.x64.exe" to install Microsoft Visual C++ 14 <br />
-**4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose 'Desktop development with C++' after <br />
+**4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose *Desktop development with C++* after <br />
 **5.** restart the computer <br />
 **6.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* <br />
    when the console is open and ready, execute the following two commands: <br />
