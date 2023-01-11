@@ -37,8 +37,10 @@
     your bot should has sent you a message showing: 'Bot up and running' and this is the message that informs you the remote controller is ready, but first let's do the last two steps <br />
     now you can close the console <br />
 14. open again the console and execute the previous command <br />
-    in the small window you have to click 'Options' (at the top), 'Console', 'Hide' (by doing this the console will be invisible when executing commands from the Telegram bot), then click 'Restart' and wait for it to re-opens <br />
-    click 'Options' again, 'Startup', 'Enable' (by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again) <br />
+    in the small window you have to click 'Options' (at the top), 'Console', 'Hide', then click 'Restart' and wait for it to re-opens <br />
+    (by doing this the console will be invisible when executing commands from the Telegram bot) <br />
+    click 'Options' again, 'Startup', 'Enable' <br />
+    (by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again) <br />
     close the small window <br />
     now you can close the console <br />
 15. restart the computer again <br />
