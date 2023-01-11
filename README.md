@@ -66,7 +66,9 @@ Please note that by executing the `batches\hide.bat` command, those required pro
 and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
       `batches\unhide.bat`</sup> <br />
 ## Available commands
-<sup>| Command | Description |
+<sup>
+| Command | Description |
 | --- | --- |
 | `git status` | List all new or modified files |
-| `git diff` | Show file differences that haven't been staged |</sup>
+| `git diff` | Show file differences that haven't been staged |
+</sup>
