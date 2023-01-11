@@ -6,26 +6,26 @@
 5. restart the computer <br />
 6. search for 'PowerShell' in the search bar, right click on it and select 'Run as administrator', then click 'Yes' <br />
    when the console is open and ready, execute the following two commands: <br />
-   (remember to wait for it to be ready after typing each command) <br />
-      <sup>`pip install --upgrade setuptools`</sup> <br />
-      <sup>`pip install psutil`</sup> <br />
+   <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
+      `pip install --upgrade setuptools` <br />
+      `pip install psutil` <br />
    now you can close the console <br />
 7. restart the computer again <br />
 8. open again the console and execute the following four commands: <br />
-   (remember to wait for it to be ready after typing each command) <br />
-      <sup>`cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot`</sup> <br />
-      <sup>`python -m pip install -r requirements.txt`</sup> <br />
-      <sup>`Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force`</sup> <br />
-      <sup>`attrib +h "C:\Windows\System32\bot" /s /d`</sup> <br />
+   <sup>(remember to wait for it to be ready after typing each command)</sup> <br />
+      `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
+      `python -m pip install -r requirements.txt` <br />
+      `Copy-Item -Path $env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot -Destination "C:\Windows\System32" -recurse -Force` <br />
+      `attrib +h "C:\Windows\System32\bot" /s /d` <br />
    now you can close the console <br />
 9. restart the computer again <br />
 10. if you don't have Telegram already installed on your phone, install it and create your account <br />
     go to t.me/BotFather and in the chat press 'START', it'll reply with a list of commands; press on '/newbot' command and follow its replies <br />
     make sure to have your bot successfully created (BotFather should has sent you a message with a t.me link to your bot and a token) <br />
     press on the token to copy it automatically <br />
-    (if the computer doesn't sync the phone clipboard you won't have it copied on the computer clipboard, so, from your phone, send an email to the email account registered on the computer including the token in the text: you'll open it on the computer and will copy the token, then remember to delete that email, even from the trash, and delete also the browser research history!) <br />
+    <sup>(if the computer doesn't sync the phone clipboard you won't have it copied on the computer clipboard, so, from your phone, send an email to the email account registered on the computer including the token in the text: you'll open it on the computer and will copy the token, then remember to delete that email, even from the trash, and delete also the browser research history!)</sup> <br />
 11. open again the console and execute the following command: <br />
-       <sup>`python bot\bot_setup.py`</sup> <br />
+       `python bot\bot_setup.py` <br />
     a small window called 'Setup' (actually 'Set...') should has popped-up and you should see a blank field under the title 'BotFather token': this small window it's the setup of the remote controller <br />
     paste your token in the blank field and click 'Confirm', then click 'Start it!' (the small window should has closed) <br />
     now you can close the console <br />
