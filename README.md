@@ -26,7 +26,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
    now you can close the console <br />
 **9.** restart the computer again <br />
 **10.** if you don't have Telegram already installed on your phone, install it and create your account <br />
-    go to t.me/BotFather and in the chat press *START*, it'll reply with a list of commands; press on */newbot* command and follow its replies <br />
+    go to t.me/BotFather and in the chat press *START*, it'll reply with a list of commands; press on the */newbot* command and follow its replies <br />
     make sure to have your bot successfully created <br />
     <sup>(BotFather should has sent you a message with a t.me link to your bot and a token)</sup> <br />
     press on the token to copy it automatically <br />
