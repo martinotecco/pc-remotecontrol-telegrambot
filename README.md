@@ -69,9 +69,9 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | Command | Description | Parameters |
 | --- | --------- | --- |
 | `/shutdown` | shutdown the computer | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
-| `/reboot` | reboot the computer | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
-| `/hibernate` | hibernate the computer | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
-| `/logout` | logout from the current account | `_t + <minutes>` <sub>e.g.: /shutdown_t + 2</sub> |
+| `/reboot` | reboot the computer | `_t + <minutes>` <sub>e.g.: /reboot_t + 2</sub> |
+| `/hibernate` | hibernate the computer | `_t + <minutes>` <sub>e.g.: /hiberante_t + 2</sub> |
+| `/logout` | logout from the current account | `_t + <minutes>` <sub>e.g.: /logout_t + 2</sub> |
 | `/lock` | lock the computer |  |
 | `/cancel` | abort the shutdown or reboot |  |
 | `/check` | check the computer status |  |
