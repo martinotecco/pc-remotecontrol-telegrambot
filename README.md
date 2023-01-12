@@ -53,7 +53,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     click *Options* again, *Startup*, *Enable* <br />
     <sup>(by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again)</sup> <br />
     close the small window <br />
-    before closing the console execute the following command: <br />
+    before closing the console, execute the following command: <br />
     `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
     <sup>(by executing this command, the "pc-remotecontrol-telegrambot" folder has been deleted)</sup> <br />
     now you can close the console <br />
