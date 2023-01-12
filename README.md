@@ -42,7 +42,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'Welcome to PC-Control bot...' and 'Keyboard is up')</sup> <br />
     if a list of commands pops-up you have to ignor it, there's another step you have to do before you can use those commands <br />
 **13.** open again the console in administrator mode and execute the previous command <br />
-    <sup>(press the up-arrow key on your keyboard and the command should appear in the console)</sup> <br />
+    <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
     in the small window you have to click *Change user permissions*, then add your Telegram username without the @ symbol in the new blank field <br />
     close the Username window and click *Start it!* again <br />
     <sup>(your bot should has sent you a message showing: 'Bot up and running' and this is the message that informs you the remote controller is ready)</sup> <br />
