@@ -31,17 +31,17 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     paste your token in the blank field and click *Confirm*, then click *Start it!* <br />
     <sup>(the small window should has closed)</sup> <br />
     now you have to close the console <br />
-**12.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
+**8.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
     press *START* in the chat of your newly created bot <br />
     <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'Welcome to PC-Control bot...' and 'Keyboard is up')</sup> <br />
     if a list of commands pops-up you have to ignor it, there's another step you have to do before you can use those commands <br />
-**13.** open again the console in administrator mode and execute the previous command <br />
+**9.** open again the console in administrator mode and execute the previous command <br />
     <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
     in the small window you have to click *Change user permissions*, then add your Telegram username without the @ symbol in the new blank field <br />
     close the Username window and click *Start it!* again <br />
     <sup>(your bot should has sent you a message showing: 'Bot up and running' and this is the message that informs you the remote controller is ready)</sup> <br />
     now you have to close the console <br />
-**14.** open again the console in administrator mode and execute the previous command <br />
+**10.** open again the console in administrator mode and execute the previous command <br />
     in the small window you have to click *Options*, *Console*, *Hide*, then click *Restart* and wait for it to re-opens <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
     click *Options* again, *Startup*, *Enable* <br />
