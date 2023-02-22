@@ -28,35 +28,34 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
 **7.** in the console execute the following command: <br />
        `python bot\bot_setup.py` <br />
     a small window should has popped-up and you should see a blank field under the title *BotFather token* <br />
-    paste your token in the blank field and click *Confirm*, then click *Start it!* <br />
+    paste your token in the blank field and click *confirm*, then click *start it* <br />
     <sup>(the small window should has closed)</sup> <br />
     now you have to close the console <br />
 **8.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
     press *START* in the chat of your newly created bot <br />
-    <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'Welcome to PC-Control bot...' and 'Keyboard is up')</sup> <br />
+    <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'welcome to pc-remotecontrol-telegrambot...' and 'the keyboard is up')</sup> <br />
     if a list of commands pops-up you have to ignor it, there's another step you have to do before you can use those commands <br />
 **9.** open again the console in administrator mode and execute the previous command <br />
     <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
-    in the small window you have to click *Change user permissions*, then add your Telegram username without the @ symbol in the new blank field <br />
-    close the Username window and click *Start it!* again <br />
-    <sup>(your bot should has sent you a message showing: 'Bot up and running' and this is the message that informs you the remote controller is ready)</sup> <br />
+    in the small window you have to click *change user permissions*, then add your Telegram username without the @ symbol in the new blank field <br />
+    close the username window and click *start it* again <br />
     now you have to close the console <br />
 **10.** open again the console in administrator mode and execute the previous command <br />
-    in the small window you have to click *Options*, *Console*, *Hide*, then click *Restart* and wait for it to re-opens <br />
+    in the small window you have to click *options*, *console*, *hide*, then click *restart* and wait for it to re-opens <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
-    click *Options* again, *Startup*, *Enable* <br />
+    click *options* again, *startup*, *enable* <br />
     <sup>(by doing this, the remote controller will be available at every computer boot, it won't be necessary to start it again)</sup> <br />
     close the small window <br />
     in the console execute the following command: <br />
     `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
     <sup>(by executing this command, the "pc-remotecontrol-telegrambot" folder has been deleted)</sup> <br />
-    click *Start it!* again <br />
+    click *start it* again <br />
     now you have to close the console <br />
     delete the email you've sent to the email account registered on the computer, even from the trash, if you've copied the token by doing that <br />
     delete the browser research history</sup> <br />
-<sup>Done! You've set up the remote controller successfully, your bot will send you the 'Bot up and running' message at every computer boot. <br />
+<sup>Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
-Please note that by executing the `batches\hide.bat` command, shortcuts of those required programs installed at the beginning have been actually hidden <br />
+Please note that by executing the `batches\hide.bat` command, the shortcuts of those required programs installed at the beginning have been actually hidden <br />
 and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
       `batches\unhide.bat`</sup> <br />
 ## Available commands
