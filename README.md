@@ -37,7 +37,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     if a list of commands pops-up you have to ignor it, there's another step you have to do before you can use those commands <br />
 **9.** open again the console in administrator mode and execute the previous command <br />
     <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
-    in the small window you have to click *change user permissions*, then insert your Telegram username without the @ symbol in the new blank field and click 'add permissions' <br />
+    in the small window you have to click *change user permissions*, then insert your Telegram username without the @ symbol and click *add permissions* <br />
     close the username window and click *start it* again <br />
     now you have to close the console <br />
 **10.** open again the console in administrator mode and execute the previous command <br />
