@@ -72,6 +72,6 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/launch` | launch a program | `<program>` <sub>e.g.: /launch notepad (no matter uppercase or lowercase)</sub> |
 | `/task` | check if a process is running, <br /> if yes ask in chat if have to kill it | `<exename>` <sub>e.g.: /task chrome</sub> |
 | `/link` | open a website | `https://<domain>` <sub>e.g.: /link ht<span>tps://</span>google.com (don't use *w<span>ww.*)</sub> |
-| `/memo` | show a memo | `<text>` <sub>e.g.: /memo Hello, how are you? (WARNING! The UI is visible.)</sub> |
+| `/memo` | show a memo | `<text>` <sub>e.g.: /memo Hello, how are you? (WARNING! The UI is visible)</sub> |
 | `/screen` | take a screen and send it in chat |  |
 | `/keyboard`, `/kb` | show the commands in chat |  |
