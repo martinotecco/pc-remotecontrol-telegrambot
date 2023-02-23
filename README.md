@@ -28,7 +28,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     press on the token to copy it automatically <br />
     <sup>(if the computer doesn't sync your phone clipboard, to easily copy it send the token via email to a fake email account created with [temp-mail](https://temp-mail.org) ― Ctrl+click to open the website in a new tab)</sup> <br />
 **7.** in the console execute the following command: <br />
-       `python bot\bot_setup.py` <br />
+       `py bot\bot_setup.py` <br />
     a small window should has popped-up and you should see a blank field under the title *BotFather token* <br />
     paste your token in the blank field and click *confirm*, then click *start it* and wait about 5/10 seconds<br />
     <sup>(the small window should has closed)</sup> <br />
