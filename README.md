@@ -1,4 +1,3 @@
-<base target="_blank">
 credits to [Tostapunk](https://github.com/Tostapunk) <br />
 ## How to install
 <sup>first of all, be sure to navigate as a guest or in incognito mode, so close this page if you're navigating in the default mode and delete the browser history <br />
