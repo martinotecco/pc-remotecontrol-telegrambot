@@ -49,7 +49,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     now you have to close the console <br />
 **11.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
     in the top left corner click on *Action*, then choose *Create Task...* <br />
-    in the *General* insert the name of the task, use "bot_restart.ps1" if you want, since it's the name of the script the task will run based on the schedule, or you can give it the name you prefer <br />
+    in the *General* tab insert the name of the task, use "bot_restart.ps1" if you want, since it's the name of the script the task will run based on the schedule <br />
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
