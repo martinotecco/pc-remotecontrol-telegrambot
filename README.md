@@ -43,7 +43,6 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
 **10.** open again the console in administrator mode and execute the previous command <br />
     in the small window you have to click *options*, *console*, *hide*, then click *restart* and wait for it to re-opens <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
-    close the small window <br />
     in the console execute the following command: <br />
     `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
     <sup>(by executing this command, the "pc-remotecontrol-telegrambot" folder has been deleted)</sup> <br />
