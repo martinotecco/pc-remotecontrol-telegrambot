@@ -20,7 +20,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
       `attrib +s +h "C:\Windows\System32\batches"` <br />
       `batches\hide.bat` <br />
       `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
-   let the console open, you don't have finished yet <br />
+   let the console opened, you don't have finished yet <br />
 **6.** if you don't have Telegram already installed on your phone, install it and create your account <br />
     go to t.me/BotFather and in the chat press *START*, it'll reply with a list of commands; press on the */newbot* command and follow its replies <br />
     make sure to have your bot successfully created <br />
