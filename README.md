@@ -46,7 +46,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
     click *start it* again <br />
     now you have to close the console <br />
-    delete the email you've sent to the email account registered on the computer, even from the trash, if you've copied the token by doing that <br />
+    delete the email you've sent to the email account registered on the computer, even from the trash, if you've copied the token via that method<br />
     delete the browser research history</sup> <br />
 ⠀ <br />
 <sup>Done! You've set up the remote controller successfully. <br />
