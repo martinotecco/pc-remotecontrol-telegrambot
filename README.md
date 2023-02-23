@@ -6,7 +6,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
 **3.** open "VC_redist.x64.exe" to install Microsoft Visual C++ 14, make sure to decline the reboot request at the end <br />
 **4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose *Desktop development with C++* after <br />
 **5.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* <br />
-   when the console is open and ready, execute the following ten commands: <br />
+   when the console is open and ready, execute the following ten commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
       `pip install --upgrade setuptools` <br />
       `pip install psutil` <br />
