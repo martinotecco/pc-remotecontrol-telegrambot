@@ -47,7 +47,6 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
     click *start it* again <br />
     now you have to close the console <br />
-    delete the browser research history</sup> <br />
 ⠀ <br />
 <sup>Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
