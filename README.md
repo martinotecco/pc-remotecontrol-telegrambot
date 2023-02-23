@@ -61,11 +61,10 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | --- | --------- | --- |
 | `/shutdown` | shutdown the computer | `_t <minutes>` <sub>e.g.: /shutdown_t 2 (not a mandatory parameter)</sub> |
 | `/reboot` | reboot the computer | `_t <minutes>` <sub>e.g.: /reboot_t 2 (not a mandatory parameter)</sub> |
+| `/cancel` | abort the shutdown or reboot |  |
 | `/logout` | logout from the current account | `_t <minutes>` <sub>e.g.: /logout_t 2 (not a mandatory parameter)</sub> |
 | `/lock` | lock down the computer |  |
-| `/cancel` | abort the shutdown or reboot |  |
-| `/check` | check the computer status |  |
-| `/launch` | launch a program | `<program>` <sub>e.g.: /launch notepad (no matter uppercase or lowercase)</sub> |
 | `/task` | check if a program is running, <br /> if yes ask in chat if have to kill it | `<exename>` <sub>e.g.: /task chrome</sub> |
 | `/link` | open a website | `https://<domain>` <sub>e.g.: /link ht<span>tps://</span>google.com (don't use *w<span>ww.*)</sub> |
+| `/check` | check the computer status |  |
 | `/keyboard`, `/kb` | show the commands in chat |  |
