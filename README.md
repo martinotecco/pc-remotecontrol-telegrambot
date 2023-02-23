@@ -64,7 +64,7 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/shutdown` | shutdown the computer | `_t <minutes>` <sub>e.g.: /shutdown_t 2 (not a mandatory parameter)</sub> |
 | `/reboot` | reboot the computer | `_t <minutes>` <sub>e.g.: /reboot_t 2 (not a mandatory parameter)</sub> |
 | `/logout` | logout from the current account | `_t <minutes>` <sub>e.g.: /logout_t 2 (not a mandatory parameter)</sub> |
-| `/lock` | lock the computer |  |
+| `/lock` | lock down the computer |  |
 | `/cancel` | abort the shutdown or reboot |  |
 | `/check` | check the computer status |  |
 | `/launch` | launch a program | `<program>` <sub>e.g.: /launch notepad (no matter uppercase or lowercase)</sub> |
