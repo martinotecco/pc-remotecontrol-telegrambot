@@ -25,7 +25,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     make sure to have your bot successfully created <br />
     <sup>(BotFather should has sent you a message with a t.me link to your bot and a token)</sup> <br />
     press on the token to copy it automatically <br />
-    <sup>(if the computer doesn't sync your phone clipboard you won't have it copied on the computer clipboard, so, from your phone, send the token via email to the email account registered on the computer)</sup> <br />
+    <sup>(if the computer doesn't sync your phone clipboard you won't have it copied on the computer clipboard, so, from your phone, send the token via email to a fake email account created with temp-mail.org)</sup> <br />
 **7.** in the console execute the following command: <br />
        `python bot\bot_setup.py` <br />
     a small window should has popped-up and you should see a blank field under the title *BotFather token* <br />
@@ -46,7 +46,6 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
     click *start it* again <br />
     now you have to close the console <br />
-    delete the email you've sent to the email account registered on the computer, even from the trash, if you've copied the token via that method<br />
     delete the browser research history</sup> <br />
 ⠀ <br />
 <sup>Done! You've set up the remote controller successfully. <br />
