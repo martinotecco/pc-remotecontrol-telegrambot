@@ -33,7 +33,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
     now you have to close the console <br />
 **8.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
     press *START* in the chat of your newly created bot <br />
-    <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'welcome to pc-remotecontrol-telegrambot!...' and 'the keyboard is up')</sup> <br />
+    <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'this is pc-remotecontrol-telegrambot!...' and 'the keyboard is up')</sup> <br />
     if a list of commands pops-up you have to ignor it, there's another step you have to do before you can use those commands <br />
 **9.** open again the console in administrator mode and execute the previous command <br />
     <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
