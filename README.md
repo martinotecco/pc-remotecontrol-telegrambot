@@ -1,5 +1,6 @@
 credits to [Tostapunk](https://github.com/Tostapunk) <br />
 ## How to install
+<a href="https://www.google.com/" target="_blank">Google</a>
 <sup>first of all, be sure to navigate as a guest or in incognito mode, so close this page if you're navigating in the default mode and delete the browser history <br />
 **1.** download the project from the [Releases section](https://www.github.com/martinotecco/pc-remotecontrol-telegrambot/releases) and unzip it in the Downloads folder<br />
 <sup>(when unzipped, make sure to have the "pc-remotecontrol-telegrambot" folder containing directly the files, not another folder inside with the same name containing the files)</sup> <br />
