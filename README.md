@@ -30,7 +30,7 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
 **7.** in the console execute the following command: <br />
        `python bot\bot_setup.py` <br />
     a small window should has popped-up and you should see a blank field under the title *BotFather token* <br />
-    paste your token in the blank field and click *confirm*, then click *start it* <br />
+    paste your token in the blank field and click *confirm*, then click *start it* and wait about 5-10 seconds<br />
     <sup>(the small window should has closed)</sup> <br />
     now you have to close the console <br />
 **8.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
@@ -40,12 +40,12 @@ credits to [Tostapunk](https://github.com/Tostapunk/) <br />
 **9.** open again the console in administrator mode and execute the previous command <br />
     <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
     in the small window you have to click *change user permissions*, then insert your Telegram username without the @ symbol and click *add permissions* <br />
-    close the username window and click *start it* again <br />
+    close the username window, then click *start it* again and wait about 5-10 seconds<br />
     now you have to close the console <br />
 **10.** open again the console in administrator mode and execute the previous command <br />
     in the small window you have to click *options*, *console*, *hide*, then click *restart* and wait for it to re-opens <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
-    click *start it* again <br />
+    click *start it* again and wait about 5-10 seconds<br />
     now you have to close the console <br />
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
