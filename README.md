@@ -59,7 +59,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     re-do these last steps to create another trigger but, instead of *On a schedule*, in the new one you should choose *At startup* <br />
     set the other options equal to those of the previous trigger, except for the *for a duration of:* one, there you have to set *1 day* <br />
     go to the *Actions* tab and click on *New...*, at the top, next to *Action:*, should be already selected *Start a program* <br />
-    insert *C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe* as *Program/script:* and *C:\Windows\System32\bot\bot_restart.ps1* as *Add arguments:* <br />
+    as *Program/script:* insert *C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe* and as *Add arguments:* insert *C:\Windows\System32\bot\bot_restart.ps1* <br />
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
