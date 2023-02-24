@@ -8,7 +8,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 **4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose *Desktop development with C++* after <br />
 **5.** open "gpedit_enable.exe" to install Microsoft Local Security Policy Editor and wait till the installation ends, it will ask you to press any key when finishing <br />
     <sup>(if prompted to a red alert window don't worry because it's safe, just click *More info*, then *Run anyway* and confirm by clicking *Yes*)</sup> <br />
-**6.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* <br />
+**6.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* to confirm<br />
    when the console is open and ready, execute the following twelve commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
       `pip install --upgrade setuptools` <br />
