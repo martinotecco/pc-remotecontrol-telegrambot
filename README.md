@@ -57,7 +57,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     click *start it* again and wait about 5/10 seconds<br />
     now you have to close the console <br />
 **13.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
-    <sup>(if you can't find it, just search for task instead)</sup> <br />
+    <sup>(if you can't find it, search for task only instead)</sup> <br />
     in the top left corner click on *Action*, then choose *Create Task...* <br />
     in the *General* tab insert the name of the task, use "bot_restart.ps1" if you want, since it's the name of the script the task will run based on the schedule <br />
     select *Run whether user is logged on or not* and be sure to enable *Do not store password* and *Run with highest privileges* <br />
