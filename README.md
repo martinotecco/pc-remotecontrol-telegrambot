@@ -6,7 +6,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 **2.** open "python-3.11.2-amd64.exe" to install Python 3.11.2, make sure to select the option to add it to the PATH <br />
 **3.** open "VC_redist.x64.exe" to install Microsoft Visual C++ 14, make sure to decline the reboot request at the end <br />
 **4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose *Desktop development with C++* after <br />
-**5.** open "gpedit_enable.exe" to install Microsoft Local Security Policy and wait till the installation ends, it will ask you to press any key when finishing <br />
+**5.** open "gpedit_enable.exe" to install Microsoft Local Security Policy and wait till the installation is completed, it will ask you to press any key when it ends <br />
     <sup>(if prompted to a red alert window don't worry because it's safe, just click *More info*, then *Run anyway* and confirm by clicking *Yes*)</sup> <br />
     search for secpol in the search bar, and click on *Local Security Policy* to open it <br />
     on the left side of the window click on the small arrow next to *Local Policies*, then click on *Security Options* <br />
