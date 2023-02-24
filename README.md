@@ -61,7 +61,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     go to the *Actions* tab and click on *New...*, at the top, next to *Action:*, should be already selected *Start a program* <br />
     insert *C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe* as *Program/script:* and *C:\Windows\System32\bot\bot_restart.ps1* as *Add arguments:* <br />
 ⠀ <br />
-<sup>Done! You've set up the remote controller successfully. <br />
+Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
 Please note that by executing the `batches\hide.bat` command, shortcuts of those required programs installed at the beginning have been actually hidden <br />
 and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
