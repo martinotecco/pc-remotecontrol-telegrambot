@@ -79,7 +79,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     enable *If the running task does not end when requested, force it to stop* <br />
     under *If the task is already running, then the following rule applies:* choose *Run a new instance in parallel*, then click *OK* to confirm <br />
     close the Task Scheduler window<br />
-**14.** close the File Explorer window <br />
+**14.** close the File Explorer window if it's still opened<br />
     press the Win+V keybind to open the clipboard, a small window should has appeared but, if you see a *Turn on* button, just close it, otherwise click *Clear all* <br />
     remember to close the web browser when you'll finish reading <br />
 ⠀ <br />
