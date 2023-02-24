@@ -50,11 +50,15 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 **11.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
     in the top left corner click on *Action*, then choose *Create Task...* <br />
     in the *General* tab insert the name of the task, use "bot_restart.ps1" if you want, since it's the name of the script the task will run based on the schedule <br />
-    choose *Run whether user is logged on or not* and be sure to enable *Do not store password.* and *Run with highest privileges* <br />
+    select *Run whether user is logged on or not* and be sure to enable *Do not store password.* and *Run with highest privileges* <br />
     go to the *Triggers* tab and click on *New...*, at the top, next to *Begin the task:*, should be already selected *On a schedule* <br />
     select *Daily*, then set the midnight, 00:00:00, of the current day as the date next to *Start:*, so remember that 00:00:00 is refered to the day after <br />
     <sup>(for example, if you're reading this on March 9th, set March 10th as the day and 00:00:00 as the time: the schedule will start at midnight)</sup> <br />
     next to *Recur every:* type *1* as the days count, then select *Repeat task every:* and set it to *5 minutes*, next to *for a duration of:* choose *Indefinitely* <br />
+    select *Stop task if it runs longer than:* and set it to *30 minutes*, be sure to disable the *Expire* feature and of course select *Enabled*, click *OK* to confirm <br />
+    re-do these last steps to create another trigger but, instead of *On a schedule*, in the new one you should choose *At startup* <br />
+    set the other options equal to those of the previous trigger, except for the *for a duration of:* one, there you have to set *1 day* <br />
+    
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
