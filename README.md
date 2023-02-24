@@ -72,8 +72,9 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     enable *If the running task does not end when requested, force it to stop* <br />
     under *If the task is already running, then the following rule applies:* choose *Run a new instance in parallel*, then click *OK* to confirm <br />
     close Task Scheduler <br />
-    close Explorer if it wasn't already opened before <br />
-    press the Win+V keybind to open the clipboard of your computer, a small window should appear but, if you see a *Turn on* button, just close it, otherwise click *Clear all* <br />
+**13.** close the File Explorer window if it wasn't already opened before <br />
+    press the Win+V keybind to open the clipboard, a small window should appear but, if you see a *Turn on* button, just close it, otherwise click *Clear all* <br />
+    
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
