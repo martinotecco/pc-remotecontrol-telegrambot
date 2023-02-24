@@ -6,13 +6,14 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 **2.** open "python-3.11.2-amd64.exe" to install Python 3.11.2, make sure to select the option to add it to the PATH <br />
 **3.** open "VC_redist.x64.exe" to install Microsoft Visual C++ 14, make sure to decline the reboot request at the end <br />
 **4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose *Desktop development with C++* after <br />
-**5.** open "gpedit_enable.exe" to install Microsoft Local Security Policy Editor and wait till the installation ends, it will ask you to press any key when finishing <br />
+**5.** open "gpedit_enable.exe" to install Microsoft Local Security Policy and wait till the installation ends, it will ask you to press any key when finishing <br />
     <sup>(if prompted to a red alert window don't worry because it's safe, just click *More info*, then *Run anyway* and confirm by clicking *Yes*)</sup> <br />
     search for secpol in the search bar, and click on *Local Security Policy* to open it <br />
     on the left side of the window click on the small arrow next to *Local Policies*, then click on *Security Options* <br />
     on the right side of the window find *Network access: Do not allow storage of passwords and credentials for network authentication* and make sure is disabled <br />
     <sup>(it should be already disabled but if it's enabled instead, click on it and choose *Disabled*, click on *Apply*, then *OK*)</sup> <br />
     find *Accounts: Limit local account use of blank passwords to console logon only*, click on it and choose *Disabled*, click on *Apply*, then *OK* <br />
+    close Local Security Policy <br />
 **6.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* to confirm<br />
    when the console is open and ready, execute the following twelve commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
