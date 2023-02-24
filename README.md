@@ -30,33 +30,37 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
       `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
       `Set-ExecutionPolicy RemoteSigned -Force` <br />
    let the console opened, you don't have finished yet <br />
-**8.** if you don't have Telegram already installed on your phone, install it and create your account <br />
+**8.** search for env in the search bar and click on *Edit the system environment variables* to open it <br />
+    at the bottom of the window click on *Environment Variables...*, under the *System variables* section select the *Path* entry from the list and click *Edit...* <br />
+    if you don't see *C:\Python311\Scripts\* and *C:\Python311\* in the list you have to add them, so, for each one, click on *New* and paste it in the field <br />
+    click *OK* to confirm, then again and again for the third time, the environment variables editor should has closed <br />
+**9.** if you don't have Telegram already installed on your phone, install it and create your account <br />
     go to [t.me/BotFather](https://t.me/BotFather) and in the chat press *START*, it'll reply with a list of commands; press on the */newbot* command and follow its replies <br />
     make sure to have your bot successfully created <br />
     <sup>(BotFather should has sent you a message with a t.me link to your bot and a token)</sup> <br />
     press on the token to copy it automatically <br />
     <sup>(if the computer doesn't sync your phone clipboard, to easily copy it send the token via email to a fake email account created with [temp-mail](https://temp-mail.org) → Ctrl+click to open the website in a new tab)</sup> <br />
-**9.** in the console execute the following command: <br />
+**10.** in the console execute the following command: <br />
        `py bot\bot_setup.py` <br />
     a small window should has popped up and you should see a blank field under the title *BotFather token* <br />
     paste your token in the blank field and click *confirm*, then click *start it* and wait about 5/10 seconds<br />
     <sup>(the small window should has closed)</sup> <br />
     now you have to close the console <br />
-**10.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
+**11.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
     press *START* in the chat of your newly created bot <br />
     <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'this is pc-remotecontrol-telegrambot!...' and 'the keyboard is up')</sup> <br />
     if a list of commands pops up you have to ignor it, there's another step you have to do before you can use those commands <br />
-**11.** open again the console in administrator mode and execute the previous command <br />
+**12.** open again the console in administrator mode and execute the previous command <br />
     <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
     in the small window you have to click *change user permissions*, then insert your Telegram username without the @ symbol and click *add permissions* <br />
     close the username window, then click *start it* again and wait about 5/10 seconds<br />
     now you have to close the console <br />
-**12.** open again the console in administrator mode and execute the previous command <br />
+**13.** open again the console in administrator mode and execute the previous command <br />
     in the small window you have to click *options*, *console*, *hide*, then click *restart* and wait for it to re-opens <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
     click *start it* again and wait about 5/10 seconds<br />
     now you have to close the console <br />
-**13.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
+**14.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
     <sup>(if you can't find it, search for task only instead)</sup> <br />
     in the top left corner click on *Action*, then choose *Create Task...* <br />
     in the *General* tab insert the name of the task, use "bot_restart.ps1" if you want, since it's the name of the script the task will run based on the schedule <br />
@@ -79,7 +83,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     enable *If the running task does not end when requested, force it to stop* <br />
     under *If the task is already running, then the following rule applies:* choose *Run a new instance in parallel*, then click *OK* to confirm <br />
     close the Task Scheduler window<br />
-**14.** close the File Explorer window if it's still opened<br />
+**15.** close the File Explorer window if it's still opened<br />
     press the Win+V keybind to open the clipboard, a small window should has appeared but, if you see a *Turn on* button, just close it, otherwise click *Clear all* <br />
     remember to close the web browser when you'll finish reading <br />
 ⠀ <br />
