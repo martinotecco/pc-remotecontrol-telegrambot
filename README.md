@@ -48,7 +48,8 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
     click *start it* again and wait about 5/10 seconds<br />
     now you have to close the console <br />
-**11.** open "gpedit_enable.exe" to install Microsoft Local Security Policy Editor, if prompted to a red alert window don't worry because it's safe, just click *More info*, then *Run anyway* and confirm by clicking *Yes* <br />
+**11.** open "gpedit_enable.exe" to install Microsoft Local Security Policy Editor <br />
+    <sup>(if prompted to a red alert window don't worry because it's safe, just click *More info*, then *Run anyway* and confirm by clicking *Yes*</sup> <br />
 **12.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
     in the top left corner click on *Action*, then choose *Create Task...* <br />
     in the *General* tab insert the name of the task, use "bot_restart.ps1" if you want, since it's the name of the script the task will run based on the schedule <br />
