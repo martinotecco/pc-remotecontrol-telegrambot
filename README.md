@@ -13,7 +13,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     on the right side of the window find *Network access: Do not allow storage of passwords and credentials for network authentication* and make sure is disabled <br />
     <sup>(it should be already disabled but if it's enabled instead, click on it and choose *Disabled*, click on *Apply*, then *OK*)</sup> <br />
     find *Accounts: Limit local account use of blank passwords to console logon only*, click on it and choose *Disabled*, click on *Apply*, then *OK* <br />
-    close Local Security Policy <br />
+    close the Local Security Policy window<br />
 **6.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* to confirm<br />
    when the console is open and ready, execute the following twelve commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
@@ -78,7 +78,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     disable *Stop the task if it runs longer than:* and *If the task is not scheduled to run again, delete it after:* <br />
     enable *If the running task does not end when requested, force it to stop* <br />
     under *If the task is already running, then the following rule applies:* choose *Run a new instance in parallel*, then click *OK* to confirm <br />
-    close Task Scheduler <br />
+    close the Task Scheduler window<br />
 **13.** close the File Explorer window <br />
     press the Win+V keybind to open the clipboard, a small window should appear but, if you see a *Turn on* button, just close it, otherwise click *Clear all* <br />
     remember to close the web browser when you'll finish reading <br />
