@@ -31,7 +31,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
       `Set-ExecutionPolicy RemoteSigned -Force` <br />
    let the console opened, you don't have finished yet <br />
 **8.** if you don't have Telegram already installed on your phone, install it and create your account <br />
-    go to t.me/BotFather and in the chat press *START*, it'll reply with a list of commands; press on the */newbot* command and follow its replies <br />
+    go to [t.me/BotFather](https://t.me/BotFather) and in the chat press *START*, it'll reply with a list of commands; press on the */newbot* command and follow its replies <br />
     make sure to have your bot successfully created <br />
     <sup>(BotFather should has sent you a message with a t.me link to your bot and a token)</sup> <br />
     press on the token to copy it automatically <br />
