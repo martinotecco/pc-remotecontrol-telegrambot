@@ -74,7 +74,6 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     close Task Scheduler <br />
 **13.** close the File Explorer window if it wasn't already opened before <br />
     press the Win+V keybind to open the clipboard, a small window should appear but, if you see a *Turn on* button, just close it, otherwise click *Clear all* <br />
-    
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
