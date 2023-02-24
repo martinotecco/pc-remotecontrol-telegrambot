@@ -60,6 +60,14 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     set the other options equal to those of the previous trigger, except for the *for a duration of:* one, there you have to set *1 day* <br />
     go to the *Actions* tab and click on *New...*, at the top, next to *Action:*, should be already selected *Start a program* <br />
     in *Program/script:* paste *C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe*, in *Add arguments:* paste *C:\Windows\System32\bot\bot_restart.ps1* <br />
+    leave the *Start in:* field blank and click *OK* to confirm <br />
+    go to the *Conditions* tab and make sure to disable all the features <br />
+    go to the *Settings* tab, then select *Allow task to be run on demand* and *Run task as soon as possible after a scheduled start is missed* <br />
+    enable *If the task fails, restart every:* and set it to *1 minute*, then set *60* as the times it will attempt to restart <br />
+    disable *Stop the task if it runs longer than:* and *If the task is not scheduled to run again, delete it after:*
+    enable *If the running task does not end when requested, force it to stop* <br />
+    under *If the task is already running, then the following rule applies:* choose *Run a new instance in parallel*, then click *OK* to confirm <br />
+    close Task Scheduler <br />
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
