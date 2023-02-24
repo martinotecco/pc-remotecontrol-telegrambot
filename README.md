@@ -54,7 +54,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     go to the *Triggers* tab and click on *New...*, at the top, next to *Begin the task:*, should be already selected *On a schedule* <br />
     select *Daily*, then set the midnight, 00:00:00, of the current day as the date next to *Start:*, so remember that 00:00:00 is refered to the day after <br />
     <sup>(for example, if you're reading this on March 9th, set March 10th as the day and 00:00:00 as the time: the schedule will start at midnight)</sup> <br />
-    next to *Recur every:* type *1* as the days count, then select *Repeat task every:* and set it to *5 minutes*, next to *for a duration of* choose *Indefinitely* <br />
+    next to *Recur every:* type *1* as the days count, then select *Repeat task every:* and set it to *5 minutes*, next to *for a duration of:* choose *Indefinitely* <br />
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
