@@ -64,7 +64,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     go to the *Conditions* tab and make sure to disable all the features <br />
     go to the *Settings* tab, then select *Allow task to be run on demand* and *Run task as soon as possible after a scheduled start is missed* <br />
     enable *If the task fails, restart every:* and set it to *1 minute*, then set *60* as the times it will attempt to restart <br />
-    disable *Stop the task if it runs longer than:* and *If the task is not scheduled to run again, delete it after:*
+    disable *Stop the task if it runs longer than:* and *If the task is not scheduled to run again, delete it after:* <br />
     enable *If the running task does not end when requested, force it to stop* <br />
     under *If the task is already running, then the following rule applies:* choose *Run a new instance in parallel*, then click *OK* to confirm <br />
     close Task Scheduler <br />
