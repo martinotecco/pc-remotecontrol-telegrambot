@@ -7,7 +7,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 **3.** open "VC_redist.x64.exe" to install Microsoft Visual C++ 14, make sure to decline the reboot request at the end <br />
 **4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose *Desktop development with C++* after <br />
 **5.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* <br />
-   when the console is open and ready, execute the following eleven commands one at a time: <br />
+   when the console is open and ready, execute the following twelve commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
       `pip install --upgrade setuptools` <br />
       `pip install psutil` <br />
@@ -20,6 +20,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
       `attrib +s +h "C:\Windows\System32\batches"` <br />
       `batches\hide.bat` <br />
       `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
+      `Set-ExecutionPolicy RemoteSigned -Force` <br />
    let the console opened, you don't have finished yet <br />
 **6.** if you don't have Telegram already installed on your phone, install it and create your account <br />
     go to t.me/BotFather and in the chat press *START*, it'll reply with a list of commands; press on the */newbot* command and follow its replies <br />
