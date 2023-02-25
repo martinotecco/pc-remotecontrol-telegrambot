@@ -15,9 +15,10 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     find *Accounts: Limit local account use of blank passwords to console logon only*, click on it and choose *Disabled*, click on *Apply*, then *OK* <br />
     close the Local Security Policy window<br />
 **7.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* to confirm<br />
-   when the console is open and ready, execute the following twelve commands one at a time: <br />
+   when the console is open and ready, execute the following thirteen commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
       `pip install --upgrade setuptools` <br />
+      `python.exe -m pip install --upgrade pip` <br />
       `pip install psutil` <br />
       `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
       `python -m pip install -r requirements.txt` <br />
