@@ -34,9 +34,10 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
    let the console opened, you don't have finished yet <br />
 **8.** search for env in the search bar and click on *Edit the system environment variables* to open it <br />
     at the bottom of the window click on *Environment Variables...*, under the *System variables* section select the *Path* entry from the list and click *Edit...* <br />
-    if you don't see entries finishing in *Python311\Scripts\\* and *Python311\\* you have to add them, so in the console execute the following two commands: <br />
+    if you don't see entries finishing in *Python311\Scripts\\* and *Python311\\* you have to add them, so in the console execute the following three commands: <br />
     `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
     `.\path.py |clip` <br />
+    `cd "C:\Windows\System32"` <br />
     return to the list of entries and click on *New*, then press the Ctrl+V keybind to paste your Python path, press the *Enter* key <br />
     re-do the last step to add another entry to the list but, after pasting the path, add *Scripts\* and then press the *Enter* key
     click *OK* to confirm, then again and again for the third time, the environment variables editor should has closed <br />
