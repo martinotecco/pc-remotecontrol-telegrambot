@@ -38,7 +38,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
     `.\path.py |clip` <br />
     `cd "C:\Windows\System32"` <br />
-    let the console opened again and return to the list of entries and click on *New*, then press the Ctrl+V keybind to paste your Python path and press the *Enter* key to confirm<br />
+    let the console opened, return to the list of entries and click on *New*, then press the Ctrl+V keybind to paste your Python path and press the *Enter* key to confirm<br />
     re-do the last step to add another entry to the list but, after pasting the path, add *Scripts\\* and then press the *Enter* key to confirm <br />
     click *OK* to confirm, then again and again for the third time, the environment variables editor should has closed <br />
 **9.** if you don't have Telegram already installed on your phone, install it and create your account <br />
