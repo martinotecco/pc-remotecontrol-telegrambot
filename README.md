@@ -34,7 +34,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
    let the console opened, you don't have finished yet <br />
 **8.** search for env in the search bar and click on *Edit the system environment variables* to open it <br />
     at the bottom of the window click on *Environment Variables...*, under the *System variables* section select the *Path* entry from the list and click *Edit...* <br />
-    if you see two entries ending in *Python311\Scripts\\* and *Python311\\* you can skip this step and close the environment variables editor by clicking *Cancel* three times <br />
+    if you see two entries ending in *Python311\Scripts\\* and *Python311\\*, you can skip this step and close the environment variables editor by continuing to click *Cancel* <br />
     if you don't see those you have to add them, so in the console execute the following three commands: <br />
     `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
     `.\path.py |clip` <br />
