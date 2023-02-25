@@ -37,7 +37,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     if you don't see entries finishing in *Python311\Scripts\\* and *Python311\\* you have to add them, so in the console execute the following two commands: <br />
     `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
     `.\path.py |clip` <br />
-    return to the environment variables editor and in the window showing the list click on *New*, then press the Ctrl+V keybind to paste your Python path, press the *Enter* key <br />
+    return to the list of entries and click on *New*, then press the Ctrl+V keybind to paste your Python path, press the *Enter* key <br />
     re-do the last step to add another entry to the list but, after pasting the path, add *Scripts\* and then press the *Enter* key
     click *OK* to confirm, then again and again for the third time, the environment variables editor should has closed <br />
 **9.** if you don't have Telegram already installed on your phone, install it and create your account <br />
