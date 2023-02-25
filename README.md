@@ -56,7 +56,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     close the username window, then click *start it* again and wait about 5/10 seconds<br />
     now you have to close the console <br />
 **13.** open again the console in administrator mode and execute the previous command <br />
-    in the small window you have to click *options*, *console*, *hide*, then click *restart* and wait for it to re-opens <br />
+    in the small window you have to click *options*, *console*, *hide*, then click *restart* and wait for it to re-open <br />
     <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
     click *start it* again and wait about 5/10 seconds<br />
     now you have to close the console <br />
