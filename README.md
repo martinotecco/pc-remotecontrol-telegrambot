@@ -16,13 +16,13 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     find *Accounts: Limit local account use of blank passwords to console logon only*, click on it and choose *Disabled*, click on *Apply*, then *OK* <br />
     close the Local Security Policy window<br />
 **7.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* to confirm<br />
-   when the console is open and ready, execute the following fourteen commands one at a time: <br />
+   when the console is open and ready, execute the following thirteen commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
       `iwr -outf tskill.exe "https://github.com/martinotecco/tskill.exe/releases/download/v1.0/tskill.exe"; move .\tskill.exe "C:\Windows\System32"` <br />
       `pip install --upgrade setuptools` <br />
       `python.exe -m pip install --upgrade pip` <br />
       `pip install psutil` <br />
-      `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
+      `cd "$env:userprofile\Downloads\pc-remotecontrol-telegrambot"` <br />
       `python -m pip install -r requirements.txt` <br />
       `cd "C:\Windows\System32"` <br />
       `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot" -Destination "C:\Windows\System32" -recurse -Force` <br />
@@ -30,16 +30,17 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
       `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\batches" -Destination "C:\Windows\System32" -recurse -Force` <br />
       `attrib +s +h "C:\Windows\System32\batches"` <br />
       `batches\hide.bat` <br />
-      `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
       `Set-ExecutionPolicy RemoteSigned -Force` <br />
    let the console opened, you don't have finished yet <br />
 **8.** search for env in the search bar and click on *Edit the system environment variables* to open it <br />
     at the bottom of the window click on *Environment Variables...*, under the *System variables* section select the *Path* entry from the list and click *Edit...* <br />
     if you see two entries ending in *Python311\Scripts\\* and *Python311\\*, you can skip this step and close the environment variables editor <br />
-    if you don't see those you have to add them, so in the console execute the following three commands: <br />
-    `cd $env:userprofile\Downloads\pc-remotecontrol-telegrambot` <br />
+    if you don't see those entries you have to add them, so in the console execute the following five commands: <br />
+    `cd "$env:userprofile\Downloads\pc-remotecontrol-telegrambot"` <br />
     `.\path.py |clip` <br />
     `cd "C:\Windows\System32"` <br />
+    `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
+    `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot.zip" -recurse -Force` <br />
     let the console opened, return to the list of entries and click on *New*, then press the Ctrl+V keybind to paste your Python path and press the *Enter* key <br />
     re-do the last step to add another entry to the list but, after pasting the path, add *Scripts\\* and then press the *Enter* key <br />
     click *OK* to confirm, then again and again for the third time, the environment variables editor should has closed <br />
