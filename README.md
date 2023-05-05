@@ -48,7 +48,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     <sup>(if the computer doesn't sync your phone clipboard, to easily copy it send the token via email to a fake email account created with [temp-mail](https://temp-mail.org) → Ctrl+click to open the website in a new tab)</sup> <br />
 **10.** in the console paste the following portion of a command, then add the BotFather token you've just copied and execute the command: <br />
     `py bot\bot_setup.py --token` <br />
-    <sup>(It should look like this:   *py bot\bot_setup.py --token 3318732989:5p6mRpVuySvjGWFQea3FLHH872pF99HXF8N*)</sup> <br />
+    <sup>(It should look like this: ⠀ *py bot\bot_setup.py --token 3318732989:5p6mRpVuySvjGWFQea3FLHH872pF99HXF8N*)</sup> <br />
     now execute the following command to start the bot for the first time:
     `py bot\bot_setup.py --start` <br />
     let the console opened
@@ -58,7 +58,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     if a list of commands pops up you have to ignor it, there's another step you have to do before you can use those commands <br />
 *12.** now in the console, as you've done before, paste another portion of a command, the one below, then add your Telegram username and execute the command: <br />
     `py bot\bot_setup.py --admin_add` <br />
-    <sup>(It should look like this:   *py bot\bot_setup.py --admin_add @username*)</sup> <br />
+    <sup>(It should look like this: ⠀ *py bot\bot_setup.py --admin_add @username*)</sup> <br />
     now execute the following three commands and, after the last one, wait about 5/10 seconds before closing the console: <br />
     `py bot\bot_setup.py --output_hide` <br />
     `py bot\bot_setup.py --startup_disable` <br />
