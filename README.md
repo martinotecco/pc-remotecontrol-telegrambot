@@ -46,27 +46,25 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     <sup>(BotFather should has sent you a message with a t.me link to your bot and a token)</sup> <br />
     press on the token to copy it automatically <br />
     <sup>(if the computer doesn't sync your phone clipboard, to easily copy it send the token via email to a fake email account created with [temp-mail](https://temp-mail.org) → Ctrl+click to open the website in a new tab)</sup> <br />
-**10.** in the console execute the following command: <br />
-       `py bot\bot_setup.py` <br />
-    a small window should has popped up and you should see a blank field under the title *BotFather token* <br />
-    paste your token in the blank field and click *confirm*, then click *start* and wait about 5/10 seconds<br />
-    <sup>(the small window should has closed)</sup> <br />
-    now you have to close the console <br />
+**10.** in the console paste the following portion of a command, then add the BotFather token you've just copied and execute the command: <br />
+    `py bot\bot_setup.py --token` <br />
+    <sup>(It should look like this: *py bot\bot_setup.py --token 3318732989:5p6mRpVuySvjGWFQea3FLHH872pF99HXF8N*)</sup> <br />
+    now execute the following command to start the bot for the first time:
+    `py bot\bot_setup.py --start` <br />
+    let the console opened
 **11.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
     press *START* in the chat of your newly created bot <br />
     <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'this is pc-remotecontrol-telegrambot!...' and 'the keyboard is up')</sup> <br />
     if a list of commands pops up you have to ignor it, there's another step you have to do before you can use those commands <br />
-**12.** open again the console in administrator mode and execute the previous command <br />
-    <sup>(press the up-arrow key on the keyboard and the command should appear in the console)</sup> <br />
-    in the small window you have to click *change user permissions*, then insert your Telegram username without the @ symbol and click *add permissions* <br />
-    close the username window, then click *start* again and wait about 5/10 seconds<br />
+*12.** now in the console, as you've done before, paste another portion of a command, the one below, then add your Telegram username and execute the command: <br />
+    `py bot\bot_setup.py --admin_add` <br />
+    <sup>(It should look like this: *py bot\bot_setup.py --admin_add @username*)</sup> <br />
+    now execute the following three commands and, after the last one, wait about 5/10 seconds before closing the console: <br />
+    `py bot\bot_setup.py --output_hide` <br />
+    `py bot\bot_setup.py --startup_disable` <br />
+    `py bot\bot_setup.py --start` <br />
     now you have to close the console <br />
-**13.** open again the console in administrator mode and execute the previous command <br />
-    in the small window you have to click *options*, *console*, *hide*, then click *restart* and wait for it to re-open <br />
-    <sup>(by doing this, the console will be invisible when executing commands from your Telegram bot)</sup> <br />
-    click *start* again and wait about 5/10 seconds<br />
-    now you have to close the console <br />
-**14.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
+**13.** search for task scheduler in the search bar and click on *Task Scheduler* to open it <br />
     <sup>(if you can't find it, search for task only instead)</sup> <br />
     in the top left corner click on *Action*, then choose *Create Task...* <br />
     in the *General* tab insert the name of the task, use "bot_restart.ps1" if you want, since it's the name of the script the task will run based on the schedule <br />
@@ -89,7 +87,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     enable *If the running task does not end when requested, force it to stop* <br />
     under *If the task is already running, then the following rule applies:* choose *Run a new instance in parallel*, then click *OK* to confirm <br />
     close the Task Scheduler window<br />
-**15.** close the File Explorer window if it's still opened<br />
+**14.** close the File Explorer window if it's still opened<br />
     press the Win+V keybind to open the clipboard, a small window should has appeared but, if you see a *Turn on* button, just close it, otherwise click *Clear all* <br />
     remember to close the web browser when you'll finish reading <br />
 ⠀ <br />
