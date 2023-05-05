@@ -34,6 +34,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     at the bottom of the window click on *Environment Variables...*, under the *System variables* section select the *Path* entry from the list and click *Edit...* <br />
     if you see two entries ending in *Python311\Scripts\\* and *Python311\\*, you can skip this step and close the environment variables editor <br />
     if you don't see those entries you have to add them, so in the console execute the following three commands: <br />
+    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
     `.\"$env:userprofile\Downloads\pc-remotecontrol-telegrambot\path.py" |clip` <br />
     `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot" -recurse -Force` <br />
     `Remove-Item "$env:userprofile\Downloads\pc-remotecontrol-telegrambot.zip" -recurse -Force` <br />
