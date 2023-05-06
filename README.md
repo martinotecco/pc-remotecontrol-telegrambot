@@ -7,7 +7,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 <sup>(if you can only choose between *Modify*, *Repair* and *Uninstall*, choose *Modify* and enable all the features)</sup> <br />
 **3.** open "VC_redist.x64.exe" to install Microsoft Visual C++ 14 and make sure to decline the reboot request at the end but, if it's already installed, close it <br />
 **4.** open "vs_BuildTools.exe" to install Microsoft Visual Studio Build Tools 2022, you'll have to choose *Desktop development with C++* after <br />
-<sup>(if it loads up automatically, first update all the installations, then, when you can see a message saying: 'All installations are up to date.', click on the *Modify* button and enable *Desktop Development with C++*)</sup>
+<sup>(if it loads up automatically, first update all the installations, then, when you can see a message saying: 'All installations are up to date.', click on the *Modify* button and enable *Desktop Development with C++*)</sup> <br />
 **5.** open "gpedit_enable.exe" to install Microsoft Local Security Policy and wait until the installation is complete, it will ask you to press any key at the end <br />
     <sup>(if prompted to a red alert window don't worry because it's safe, just click *More info*, then *Run anyway* and confirm by clicking *Yes*)</sup> <br />
 **6.** search for secpol in the search bar, and click on *Local Security Policy* to open it <br />
