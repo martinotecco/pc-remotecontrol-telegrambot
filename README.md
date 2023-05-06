@@ -97,7 +97,7 @@ Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
 Actually there are no bugs in the code, but maybe a few bugs haven't come up when testing. <br />
 However, since the midnight of the day you've set it up, it should be always restarted automatically every 5 minutes, so if it crashes just wait a little. <br />
-Please note that by executing the `batches\hide.bat` command, shortcuts of those required programs installed at the beginning have been actually hidden <br />
+Please note that by executing the `batches\hide.bat` command, the shortcuts of those required programs installed at the beginning have been hidden <br />
 and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
       `batches\unhide.bat`</sup> <br />
 ## Available commands
