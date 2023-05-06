@@ -95,7 +95,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 ⠀ <br />
 Done! You've set up the remote controller successfully. <br />
 You can now use the commands in the chat of your Telegram bot to remote control the computer. <br />
-Actually the only bug that can cause it to crash is adding *w<span>ww.* when using the */link* command. Maybe a few more bugs haven't come up when testing. <br />
+Actually there are no bugs in the code, but maybe a few bugs haven't come up when testing. <br />
 However, since the midnight of the day you've set it up, it should be always restarted automatically every 5 minutes, so if it crashes just wait a little. <br />
 Please note that by executing the `batches\hide.bat` command, shortcuts of those required programs installed at the beginning have been actually hidden <br />
 and won't be listed when searching through the Start Menu. To unhide them, open the console in administrator mode and execute the following command: <br />
@@ -108,7 +108,5 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | `/cancel` | abort the shutdown or reboot |  |
 | `/logout` | logout from the current account | `_t <minutes>` <sub>e.g.: /logout_t 2 (not a mandatory parameter)</sub> |
 | `/lock` | lock down the computer |  |
-| `/task` | check if a program is running, <br /> if yes ask in chat if have to kill it | `<exename>` <sub>e.g.: /task chrome</sub> |
-| `/link` | open a website | `https://<domain>` <sub>e.g.: /link ht<span>tps://</span>google.com (don't use *w<span>ww.*)</sub> |
 | `/check` | check the computer status |  |
 | `/keyboard`, `/kb` | show the commands in chat |  |
