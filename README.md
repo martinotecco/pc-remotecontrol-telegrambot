@@ -50,14 +50,14 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 **10.** in the console paste the following portion of a command, then add the BotFather token you've just copied and execute the command: <br />
     `py bot\bot_setup.py --token` <br />
     <sup>(it should look like this: ⠀ *py bot\bot_setup.py --token 3318732989:5p6mRpVuySvjGWFQea3FLHH872pF99HXF8N*)</sup> <br />
-    now execute the following command to start the bot for the first time: <br />
+    now execute the following command to start the bot for the first time and then wait about 5/10 seconds before closing the console: <br />
     `py bot\bot_setup.py --start` <br />
-    let the console opened <br />
+    now you can close the console <br />
 **11.** first, if you don't have a Telegram username, you have to create your username through your Telegram profile settings <br />
     press *START* in the chat of your newly created bot <br />
     <sup>(you can access your bot by pressing on the t.me link BotFather has sent you before; after pressing *START*, it should reply to you with: 'this is pc-remotecontrol-telegrambot!...' and 'the keyboard is up')</sup> <br />
     if a list of commands pops up you have to ignor it, there's another step you have to do before you can use those commands <br />
-**12.** now in the console, as you've done before, paste the following portion of a command, then add your Telegram username and execute the command: <br />
+**12.** open again the console in administrator mode and, as you've done before, paste the following portion of a command, then add your Telegram username and execute the command: <br />
     `py bot\bot_setup.py --admin_add` <br />
     <sup>(it should look like this: ⠀ *py bot\bot_setup.py --admin_add @username*)</sup> <br />
     now execute the following three commands and, after the last one, wait about 5/10 seconds before closing the console: <br />
