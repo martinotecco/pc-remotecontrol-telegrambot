@@ -46,7 +46,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     make sure to have your bot successfully created <br />
     <sup>(BotFather should has sent you a message with a t.me link to your bot and a token)</sup> <br />
     press on the token to copy it automatically <br />
-    <sup>(if the computer doesn't sync your phone clipboard, to easily copy it send the token via email to a fake email account created with [temp-mail](https://temp-mail.org) → Ctrl+click to open the website in a new tab)</sup> <br />
+    <sup>(if the computer doesn't sync your phone clipboard, to copy it easily send the token via email to a fake email account created with [temp-mail](https://temp-mail.org) → Ctrl+click to open the website in a new tab)</sup> <br />
 **10.** in the console paste the following portion of a command, then add the BotFather token you've just copied and execute the command: <br />
     `py bot\bot_setup.py --token` <br />
     <sup>(it should look like this: ⠀ *py bot\bot_setup.py --token 3318732989:5p6mRpVuySvjGWFQea3FLHH872pF99HXF8N*)</sup> <br />
