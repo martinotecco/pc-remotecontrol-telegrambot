@@ -20,7 +20,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
       `iwr -outf tskill.exe "https://github.com/martinotecco/tskill.exe/releases/download/v1.0/tskill.exe"; move .\tskill.exe "C:\Windows\System32"` <br />
       `pip install --upgrade setuptools` <br />
-      `python.exe -m pip install --upgrade pip` <br />
+      `python -m pip install --upgrade pip` <br />
       `pip install psutil` <br />
       `python -m pip install -r "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\requirements.txt"` <br />
       `Copy-Item -Path "$env:userprofile\Downloads\pc-remotecontrol-telegrambot\bot" -Destination "C:\Windows\System32" -recurse -Force` <br />
