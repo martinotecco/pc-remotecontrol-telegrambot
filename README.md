@@ -16,9 +16,8 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
     find *Accounts: Limit local account use of blank passwords to console logon only*, click on it and choose *Disabled*, click on *Apply*, then *OK* <br />
     close the Local Security Policy window<br />
 **7.** search for powershell in the search bar, right click on *Windows PowerShell* and select *Run as administrator*, then click *Yes* to confirm<br />
-   when the console is open and ready, execute the following eleven commands one at a time: <br />
+   when the console is open and ready, execute the following ten commands one at a time: <br />
    <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
-      `iwr -outf tskill.exe "https://github.com/martinotecco/tskill.exe/releases/download/v1.0/tskill.exe"; move .\tskill.exe "C:\Windows\System32"` <br />
       `pip install --upgrade setuptools` <br />
       `python -m pip install --upgrade pip` <br />
       `pip install psutil` <br />
