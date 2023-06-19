@@ -60,7 +60,7 @@ credits to [Tostapunk](https://github.com/Tostapunk) <br />
 **12.** open again the console in administrator mode, paste the following portion of a command, then add your Telegram username and execute the command: <br />
     `py bot\bot_setup.py --admin_add` <br />
     <sup>(it should look like this: ⠀ *py bot\bot_setup.py --admin_add username*)</sup> <br />
-    now execute the following three commands and, after the last one, wait about 5/10 seconds before closing the console: <br />
+    now execute the following two commands and, after the last one, wait about 5/10 seconds before closing the console: <br />
     <sup>(remember to wait for it to be ready before typing each command)</sup> <br />
     `py bot\bot_setup.py --output_hide` <br />
     `py bot\bot_setup.py --start` <br />
