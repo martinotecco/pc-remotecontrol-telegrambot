@@ -104,6 +104,7 @@ and won't be listed when searching through the Start Menu. To unhide them, open 
 | --- | --------- | --- |
 | `/shutdown` | shutdown the computer | `_t <minutes>` <sub>e.g.: /shutdown_t 2 (not a mandatory parameter)</sub> |
 | `/reboot` | reboot the computer | `_t <minutes>` <sub>e.g.: /reboot_t 2 (not a mandatory parameter)</sub> |
+| `/suspend` | suspend the computer |  |
 | `/cancel` | abort the shutdown or reboot |  |
 | `/logout` | logout from the current account | `_t <minutes>` <sub>e.g.: /logout_t 2 (not a mandatory parameter)</sub> |
 | `/lock` | lock down the computer |  |
